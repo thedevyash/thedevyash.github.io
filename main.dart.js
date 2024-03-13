@@ -79757,7 +79757,7 @@ return new A.PD(q,new A.rZ(B.hh,s),B.k)}}
 A.PD.prototype={
 M(a){var s,r,q,p,o,n,m,l,k=null,j=t.w,i=A.bz(a,k,j).w.a.b,h=A.bz(a,k,j).w.a.a
 j=A.ri(k,A.j_("assets/extras/ellipsetopright.png",k,k,k),k,k,h*0.74,k,-i*0.14,k)
-s=A.ri(k,A.j_("assets/extras/ellipsesmall.png",k,k,k),k,k,h*0.1,k,i*0.32,k)
+s=A.ri(k,A.j_("assets/extras/ellipseSmall.png",k,k,k),k,k,h*0.1,k,i*0.32,k)
 r=A.ri(k,A.j_("assets/extras/ellipseSmallest.png",k,k,k),k,k,h*0.66,k,i*0.31,k)
 q=A.ri(k,A.j_("assets/extras/ellipsebottomleft.png",k,k,k),k,k,-h*0.06,k,i*0.44,k)
 p=t.E
